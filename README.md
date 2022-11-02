@@ -4,4 +4,6 @@
 <h2 align="center">a 2nd year CS undergrad from India and thank you for visiting my profile. </h2>
 
 
-TODO: Add more information here
+TODO: 
+-[ ] Add more information here
+-[ ] That snake thing looks cool, learn how to implement it.
