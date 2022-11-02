@@ -5,5 +5,5 @@
 
 
 TODO: 
--[ ] Add more information here
--[ ] That snake thing looks cool, learn how to implement it.
+- [ ] Add more information here
+- [ ] That snake thing looks cool, learn how to implement it.
